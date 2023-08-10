@@ -10,3 +10,8 @@ For Chrome Or Microsoft Edge
 2. Now You Need To Enable Developer Mode Then Three Options Will Appears (1-Load Unpacked,Pack Extension, 3-Update)
 
 3. Then Go To Load Unpacked And Select The Main Folder Of Extension
+
+
+It's Not That Optimized Right Now If Sometime It's Not Working Then Reload The Youtube Or Reload The Extension
+
+I Am Working On This To Fully Optimize It :)
