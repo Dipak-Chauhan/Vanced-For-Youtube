@@ -6,7 +6,7 @@ How To Install :-
 For Chrome And Microsoft Edge
 
 1. Just Open Your Browser And Go To Settings Or Options And Then Go To Extensions 
-2. Now You Need To Enable Developer Mode Then Three Options Will Appears (1-Load Unpacked,Pack Extension, 3-Update)
+2. Now You Need To Enable Developer Mode Then Three Options Will Appears (1.Load Unpacked, 2.Pack Extension, 3.Update)
 3. Then Go To Load Unpacked And Select The Main Folder Of Extension
 
 
