@@ -3,7 +3,7 @@ A Simple Browser Extension That Block Ads From Youtube
 
 How To Install :-
 
-For Chrome Or Microsoft Edge
+For Chrome And Microsoft Edge
 
 1. Just Open Your Browser And Go To Settings Or Options And Then Go To Extensions 
 2. Now You Need To Enable Developer Mode Then Three Options Will Appears (1-Load Unpacked,Pack Extension, 3-Update)
