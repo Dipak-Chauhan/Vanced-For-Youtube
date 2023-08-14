@@ -1,7 +1,7 @@
 # Vanced-For-Youtube
 A Simple Browser Extension That Block Ads From Youtube
 
-How To Install :-
+How To Install  :-
 
 For Chrome And Microsoft Edge
 
