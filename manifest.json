@@ -24,8 +24,8 @@
   },
   "content_scripts": [
     {
-      "matches": ["*://*.youtube.com/*"],  // Specify the URLs where you want to inject the content script
-      "js": ["content.js"]  // Specify the JavaScript file to inject
+      "matches": ["*://*.youtube.com/*"],  
+      "js": ["content.js"]
     }
   ]
 }
